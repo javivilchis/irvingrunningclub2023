@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67400df3.chunk.css",
+    "main.js": "/static/js/main.26506dd4.chunk.js",
+    "main.js.map": "/static/js/main.26506dd4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.87250aa5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.87250aa5.js.map",
+    "static/css/2.5303dbd9.chunk.css": "/static/css/2.5303dbd9.chunk.css",
+    "static/js/2.10095880.chunk.js": "/static/js/2.10095880.chunk.js",
+    "static/js/2.10095880.chunk.js.map": "/static/js/2.10095880.chunk.js.map",
+    "static/js/3.214b7221.chunk.js": "/static/js/3.214b7221.chunk.js",
+    "static/js/3.214b7221.chunk.js.map": "/static/js/3.214b7221.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.5303dbd9.chunk.css.map": "/static/css/2.5303dbd9.chunk.css.map",
+    "static/css/main.67400df3.chunk.css.map": "/static/css/main.67400df3.chunk.css.map",
+    "static/js/2.10095880.chunk.js.LICENSE.txt": "/static/js/2.10095880.chunk.js.LICENSE.txt",
+    "static/media/irving-running-club-logo-white.9b2e72ad.svg": "/static/media/irving-running-club-logo-white.9b2e72ad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87250aa5.js",
+    "static/css/2.5303dbd9.chunk.css",
+    "static/js/2.10095880.chunk.js",
+    "static/css/main.67400df3.chunk.css",
+    "static/js/main.26506dd4.chunk.js"
+  ]
+}
